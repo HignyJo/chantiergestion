@@ -53,6 +53,23 @@
       "dateOuvertureChantier": "02/05/2022",
       "createTime": "02/03/2021",
       "updateTime": "02/04/2021"
+    },
+    { "chantierId": 4,
+      "chantierRef": "A051526",
+      "service": 1,
+      "codeGestionnaire": 0,
+      "ot": 2596,
+      "descriptionIntervention": "desc1",
+      "descriptionTravail": "desc2",
+      "batiment": 1,
+      "maille": 4,
+      "zone": 4,
+      "sousTraitant": "soustraitant1",
+      "dateDebut": "02/04/2021",
+      "dateFin": "02/04/2022",
+      "dateOuvertureChantier": "02/05/2021",
+      "createTime": "02/03/2021",
+      "updateTime": "02/04/2021"
     }
   ],
   "comments": [
