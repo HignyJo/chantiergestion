@@ -1,0 +1,62 @@
+
+{
+  "chantier": [
+    { "chantierId": 1,
+      "chantierRef": "A051521",
+      "service": 1,
+      "codeGestionnaire": 0,
+      "ot": 2536,
+      "descriptionIntervention": "desc1",
+      "descriptionTravail": "desc2",
+      "batiment": 1,
+      "maille": 4,
+      "zone": 4,
+      "sousTraitant": "soustraitant1",
+      "dateDebut": "02/04/2021",
+      "dateFin": "02/04/2022",
+      "dateOuvertureChantier": "02/05/2021",
+      "createTime": "02/03/2021",
+      "updateTime": "02/04/2021"
+    },
+
+    { "chantierId": 2,
+      "chantierRef": "A051851",
+      "service": 1,
+      "codeGestionnaire": 0,
+      "ot": 2843,
+      "descriptionIntervention": "desc2",
+      "descriptionTravail": "desc3",
+      "batiment": 4,
+      "maille": 6,
+      "zone": 8,
+      "sousTraitant": "soustraitant2",
+      "dateDebut": "10/12/2021",
+      "dateFin": "02/05/2022",
+      "dateOuvertureChantier": "08/01/2022",
+      "createTime": "02/03/2021",
+      "updateTime": "02/04/2021"
+    },
+
+    { "chantierId": 3,
+      "chantierRef": "A051655",
+      "service": 4,
+      "codeGestionnaire": 8,
+      "ot": 2598,
+      "descriptionIntervention": "desc4",
+      "descriptionTravail": "desc5",
+      "batiment": 1,
+      "maille": 3,
+      "zone": 3,
+      "sousTraitant": "soustraitant1",
+      "dateDebut": "02/04/2022",
+      "dateFin": "02/04/2023",
+      "dateOuvertureChantier": "02/05/2022",
+      "createTime": "02/03/2021",
+      "updateTime": "02/04/2021"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
